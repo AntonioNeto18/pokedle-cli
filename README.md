@@ -31,7 +31,7 @@ Aplicação CLI inspirado no famoso **Wordle**, mas com temática de Pokémon. O
 
 ````bash
 mvn clean package
-mvn exec:java -Dexec.mainClass="com.pokedle.Main"
+java -jar .\target\pokedle-cli-1.0-SNAPSHOT.jar
 ````
 
 ---
