@@ -26,7 +26,7 @@ public class Menu {
                 1. Chutar
                 2. Ver chutes
                 3. Ver pokemons
-                0. Sair0
+                0. Sair
                 """);
         System.out.print(">>> ");
 
